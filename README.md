@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/d7262027-b9a5-43e6-a925-23ca7583a0bf/thumbnail" >
 </p>
 
